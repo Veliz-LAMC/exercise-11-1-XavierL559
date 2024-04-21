@@ -157,3 +157,12 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
+
+figure {
+	float: right;
+}
+
+figcaption {
+	margin: .5em 0 1em 1em;
+	font-weight: bold;
+}
